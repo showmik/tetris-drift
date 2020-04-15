@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &101121963301753197
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 101121963301753199}
+  - component: {fileID: 101121963301753196}
+  m_Layer: 0
+  m_Name: AudioManger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &101121963301753199
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101121963301753197}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &101121963301753196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101121963301753197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d5e0dbdc5dbad0408f11e6c8ef2f303, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: TetrisMove
+    clip: {fileID: 8300000, guid: 782de175488e10a43b62fafedcc1f824, type: 3}
+    pitch: 1
+    source: {fileID: 0}
+  - name: TetrisRotate
+    clip: {fileID: 8300000, guid: 427dce4a416f8e94bae0cb1d2b604f44, type: 3}
+    pitch: 1
+    source: {fileID: 0}
+  - name: LineClear
+    clip: {fileID: 8300000, guid: f5ae8ffe0d527c14fbf97e3e3be3b980, type: 3}
+    pitch: 1
+    source: {fileID: 0}
+  - name: Theme
+    clip: {fileID: 8300000, guid: 6da3b80b0a8d18f4eb31f06f31853fbf, type: 3}
+    pitch: 1
+    source: {fileID: 0}
+  - name: MenuSelect
+    clip: {fileID: 8300000, guid: d4ea58f73e2a2c840bb545ce1c0d0f58, type: 3}
+    pitch: 1
+    source: {fileID: 0}
