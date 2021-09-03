@@ -2,7 +2,7 @@
 
 **Tetris Drift** is a *[Tetris](https://en.wikipedia.org/wiki/Tetris)* clone made for learning purposes along with these other clones –
 * **[Crashy FO](https://github.com/showmik/crashy-fo)** 
-* **[Arrogant Invader](https://github.com/showmik/arrogant-invader)**.
+* **[Arrogant Invader](https://github.com/showmik/arrogant-invader)**
 
 # Screenshots
 
