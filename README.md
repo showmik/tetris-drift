@@ -6,6 +6,6 @@
 
 # Screenshots
 
-<img src="Docs/main-meun-night.png" width="300" alt="MainMenu"/> <img src="Docs/main-menu-day.png" width="300" alt="MainMenu"/>
-
-<img src="Docs/game-over-night.png" width="300" alt="Gameover Screen"/> <img src="Docs/gameplay-day.png" width="300" alt="Gameplay screen"/>
+<img src="Docs/main-menu.png" width="600" alt="main-menu"/> 
+<img src="Docs/gameplay.png" width="600" alt="gameplay"/> 
+<img src="Docs/options-menu.png" width="600" alt="options-menu"/> 
